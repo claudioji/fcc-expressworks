@@ -22,7 +22,7 @@ npm uninstall express && npm install express@'>=4.0.0'
 echo "Setting up expressworks..."
 
 # Pull expressworks with a longer timeout
-cd ~/workspace
+cd ~/environment
 git clone http://github.com/reddock/expressworks
 
 # Install expressworks
